@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imHarshkashyap
 - 👀 I’m interested in AI Automations
 - 🌱 I’m currently learning AI development
-- 💞️ I’m currntly working on FusionSyncAI - A AAA based company
+- 💞️ I’m currntly working on FusionSyncAI -  AAA based company
 
 
 
