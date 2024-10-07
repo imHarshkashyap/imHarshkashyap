@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @imHarshkashyap
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on traverxAI
-- 📫 How to reach me instagramId - harsh__kashyap__731
+- 👀 I’m interested in AI Automations
+- 🌱 I’m currently learning AI development
+- 💞️ I’m currntly working on FusionSyncAI - A AAA based company
+
 
 
 <!---
